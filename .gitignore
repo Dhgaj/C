@@ -1,5 +1,5 @@
 
-Icon?
+*Icon?
 .vscode/Icon?
-.DS_Store
+*.DS_Store
 .Trash
